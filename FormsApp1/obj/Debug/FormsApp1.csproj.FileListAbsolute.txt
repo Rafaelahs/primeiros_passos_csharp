@@ -1,0 +1,10 @@
+D:\c#\Formulari\FormsApp1\bin\Debug\FormsApp1.exe.config
+D:\c#\Formulari\FormsApp1\bin\Debug\FormsApp1.exe
+D:\c#\Formulari\FormsApp1\bin\Debug\FormsApp1.pdb
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.csproj.AssemblyReference.cache
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.Form1.resources
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.Properties.Resources.resources
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.csproj.GenerateResource.cache
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.csproj.CoreCompileInputs.cache
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.exe
+D:\c#\Formulari\FormsApp1\obj\Debug\FormsApp1.pdb
